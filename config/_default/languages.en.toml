@@ -15,10 +15,10 @@ dateFormat = "2 January 2006"
 [author]
   name = "Gabriela Junqueira"
   image = "img/gabriela.png"
-  headline = "Ph.D. student in Ecology"
+  headline = "Ph.D. Candidate in Ecology"
   bio = "Ecology . Data Visualization"
   links = [
-     { email = "mg.junqueira@hotmail.com" },
+     { email = "mgjn.junqueira@gmail.com" },
      { github = "https://github.com/junqueiragaabi" },
      { twitter = "https://twitter.com/junqueiragaabi" }
   ]
