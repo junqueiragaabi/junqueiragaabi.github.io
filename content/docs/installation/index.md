@@ -1,15 +1,12 @@
 ---
-date: "2020-08-16"
-description: How to install the Blowfish theme.
+title: "Installation"
+date: 2020-08-16
 draft: false
-series:
-- Documentation
+description: "How to install the Blowfish theme."
+slug: "installation"
+tags: ["installation", "docs"]
+series: ["Documentation"]
 series_order: 2
-slug: installation
-tags:
-- installation
-- docs
-title: Installation
 ---
 
 Simply follow the standard Hugo [Quick Start](https://gohugo.io/getting-started/quick-start/) procedure to get up and running quickly.

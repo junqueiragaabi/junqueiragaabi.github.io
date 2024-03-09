@@ -1,15 +1,12 @@
 ---
-date: "2020-08-14"
-description: All the configuration variables available in Blowfish.
+title: "Configuration"
+date: 2020-08-14
 draft: false
-series:
-- Documentation
+description: "All the configuration variables available in Blowfish."
+slug: "configuration"
+tags: ["config", "docs"]
+series: ["Documentation"]
 series_order: 4
-slug: configuration
-tags:
-- config
-- docs
-title: Configuration
 ---
 
 Blowfish is a highly customisable theme and uses some of the latest Hugo features to simplify how it is configured.

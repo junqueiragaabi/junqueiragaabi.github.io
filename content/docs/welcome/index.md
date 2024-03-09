@@ -1,14 +1,11 @@
 ---
-date: "2022-01-19"
-description: Discover what's new in Blowfish version 2.0.
+title: "Welcome to Blowfish"
+date: 2022-01-19
 draft: false
-series:
-- Documentation
+description: "Discover what's new in Blowfish version 2.0."
+tags: ["new", "docs"]
+series: ["Documentation"]
 series_order: 1
-tags:
-- new
-- docs
-title: Welcome to Blowfish
 ---
 
 {{< lead >}}

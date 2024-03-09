@@ -1,16 +1,12 @@
 ---
-date: "2020-08-12"
-description: All the front matter variables available in Blowfish.
+title: "Front Matter"
+date: 2020-08-12
 draft: false
-series:
-- Documentation
+description: "All the front matter variables available in Blowfish."
+slug: "front-matter"
+tags: ["front matter", "config", "docs"]
+series: ["Documentation"]
 series_order: 7
-slug: front-matter
-tags:
-- front matter
-- config
-- docs
-title: Front Matter
 ---
 
 In addition to the [default Hugo front matter parameters](https://gohugo.io/content-management/front-matter/#front-matter-variables), Blowfish adds a number of additional options to customise the presentation of individual articles. All the available theme front matter parameters are listed below.

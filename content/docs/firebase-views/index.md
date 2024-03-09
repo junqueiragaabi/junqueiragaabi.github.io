@@ -1,16 +1,12 @@
 ---
-date: "2020-08-03"
-description: Learn how to integrate Firebase and get dynamic data for views and likes.
+title: "Firebase: Views & Likes"
+date: 2020-08-03
 draft: false
-series:
-- Documentation
+description: "Learn how to integrate Firebase and get dynamic data for views and likes."
+slug: "firebase-views"
+tags: ["firebase", "views", likes]
+series: ["Documentation"]
 series_order: 15
-slug: firebase-views
-tags:
-- firebase
-- views
-- likes
-title: 'Firebase: Views & Likes'
 ---
 
 In order to be able to support dynamic data across your website we've added the support to integrate Firebase. This will allow you to use the views feature across lists and posts. 

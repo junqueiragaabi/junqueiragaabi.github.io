@@ -1,18 +1,12 @@
 ---
-date: "2020-08-11"
-description: All the shortcodes available in Blowfish.
+title: "Shortcodes"
+date: 2020-08-11
 draft: false
-series:
-- Documentation
+description: "All the shortcodes available in Blowfish."
+slug: "shortcodes"
+tags: ["shortcodes", "mermaid", "icon", "lead", "docs"]
+series: ["Documentation"]
 series_order: 8
-slug: shortcodes
-tags:
-- shortcodes
-- mermaid
-- icon
-- lead
-- docs
-title: Shortcodes
 ---
 
 In addition to all the [default Hugo shortcodes](https://gohugo.io/content-management/shortcodes/), Blowfish adds a few extras for additional functionality.

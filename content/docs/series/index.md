@@ -1,16 +1,13 @@
 ---
-date: "2020-08-09"
-description: Learn how to group articles under a series.
+title: "Series"
+date: 2020-08-09
 draft: false
-series:
-- Documentation
+description: "Learn how to group articles under a series."
+slug: "series"
+tags: ["series", "docs"]
+series: ["Documentation"]
 series_order: 11
 seriesOpened: true
-slug: series
-tags:
-- series
-- docs
-title: Series
 ---
 
 Blowfish provides a feature to group a set of articles together under a "series". Placing an article under a series will display the rest of the series articles in each single page and provide a quick way to navigate amongst them. You can see an example of this above.

@@ -1,16 +1,12 @@
 ---
-date: "2020-08-12"
-description: Turn on thumbnails for your articles.
+title: "Thumbnails"
+date: 2020-08-12
 draft: false
-series:
-- Documentation
+description: "Turn on thumbnails for your articles."
+slug: "thumbnails"
+tags: ["thumbnail", "config", "docs"]
+series: ["Documentation"]
 series_order: 6
-slug: thumbnails
-tags:
-- thumbnail
-- config
-- docs
-title: Thumbnails
 ---
 
 ## Thumbnails

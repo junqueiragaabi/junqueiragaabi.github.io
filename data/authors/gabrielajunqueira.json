@@ -1,0 +1,9 @@
+{
+    "name": "Gabriela Junqueira",
+    "image" : "img/gabriela.png",
+    "bio": "Theme Creator",
+    "social": [
+        { "twitter": "https://twitter.com/junqueiragaabi" },
+        { "github": "https://github.com/junqueiragaabi" }
+    ]
+}

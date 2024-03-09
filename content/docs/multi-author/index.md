@@ -1,20 +1,16 @@
 ---
-authors:
-- nunocoracao
-date: "2020-08-10"
-description: Configure multiple authors for your articles.
+title: "Multiple Authors"
+date: 2020-08-10
 draft: false
-series:
-- Documentation
+description: "Configure multiple authors for your articles."
+slug: "multi-author"
+tags: ["authors", "config", "docs"]
+series: ["Documentation"]
 series_order: 10
 showAuthor: true
-showAuthorsBadges: false
-slug: multi-author
-tags:
-- authors
-- config
-- docs
-title: Multiple Authors
+authors:
+  - "nunocoracao"
+showAuthorsBadges : false 
 ---
 
 

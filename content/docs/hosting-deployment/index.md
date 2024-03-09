@@ -1,19 +1,12 @@
 ---
-date: "2020-08-07"
-description: Learn how to deploy a Blowfish site.
+title: "Hosting & Deployment"
+date: 2020-08-07
 draft: false
-series:
-- Documentation
+description: "Learn how to deploy a Blowfish site."
+slug: "hosting-deployment"
+tags: ["hosting", "deployment", "docs", "github", "netlify", "render"]
+series: ["Documentation"]
 series_order: 14
-slug: hosting-deployment
-tags:
-- hosting
-- deployment
-- docs
-- github
-- netlify
-- render
-title: Hosting & Deployment
 ---
 
 There are many ways to deploy your Hugo website built with Blowfish. The theme is designed to be flexible in almost any deployment scenario.

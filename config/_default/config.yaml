@@ -2,7 +2,7 @@ theme: blowfish
 defaultContentLanguage: en
 enableRobotsTXT: yes
 paginate: 10
-summaryLength: 0
+summaryLength: 10
 buildDrafts: no
 buildFuture: no
 imaging:
