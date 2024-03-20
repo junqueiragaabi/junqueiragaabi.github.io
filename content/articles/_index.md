@@ -38,6 +38,10 @@ This page is a work in progress.
 {{< github repo="brunomioto/futebolplotR" >}}
 
 <br>
+
+{{< github repo="junqueiragaabi/DiatoViz" >}}
+
+<br>
 <br>
 <br>
 <br>
