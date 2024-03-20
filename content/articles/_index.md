@@ -43,6 +43,7 @@ This page is a work in progress.
 <br>
 
 {{< gallery >}}
-  <img src="gallery/hexologo_butterfly.png" class="grid-w40" />
-  <img src="gallery/logo.png" class="grid-w33" />
+  <img src="gallery/hexologo_butterfly.png" class="grid-w33" />
+  <img src="gallery/futebolplot_logo.png" class="grid-w33" />
+  <img src="gallery/diatoviz_logo.png" class="grid-w33" />
 {{< /gallery >}}
